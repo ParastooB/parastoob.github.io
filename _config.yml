@@ -1,0 +1,60 @@
+# Site settings
+title: Parastoo Baghaei
+email: par.baghaei@gmail.com
+url: https://parastoob.github.io
+description: "I love computers, robots, Latin music and food. I'm a nerd for life so never gonna stop learning."
+keywords: "Computer, Engineer, Software, Robots, Robotics, Machine Learning, Human-Robot Interaction, HRI, HCI, EIT"
+skills: "PEO EIT - Computer Engineer - Graduate Reseacher in Human-Robot Interaction"
+meta_author: Baghaei Parastoo
+biography: "I'm currently doing my MASc at University of Waterloo Adaptive Systems Lab, under supervision of Dr. Dana Kulic."
+
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ffffff #E0B0D5 #18bc9c #80B3FF
+  primary-rgb: "255,255,255" #"24,288,156" #"128,179,255"
+  secondary: e5989b #2c3e50 #FD6E8A
+  secondary-dark: b6244f #595758 ffeef2
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/in/parastoobaghaei/
+  - title: twitter
+    url: https://twitter.com/parastoo_br
+  - title: github
+    url: https://github.com/parastoob
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Toronto, ON, Canada
+
+# Credits content
+credits: 'Used Jekyll version of Freelancer Bootstrap theme created by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

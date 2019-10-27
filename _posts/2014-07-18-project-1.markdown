@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-08-18
+img: robot17poster.jpg
+alt: image-alt
+project-date: August 2017
+client: Start Bootstrap
+category: Web Development
+description: 
+
+---
