@@ -1,0 +1,13 @@
+---
+title: Age-related macular degeneration diagnostics (Android, Javascript, Firebase, HTML) 
+layout: default
+modal-id: 6
+date: 2017-04-27
+img: AMD.jpg
+<!-- alt: image-alt -->
+project-date: April 2017
+school: York University - Lassonde School of Engineering
+<!-- category: Capstone Project -->
+description: My team and I for the engineering Capstone Project 1) Designed an Android app that provided patients with smart, randomly generated tests. 2) Implemented the database to report the patient’s test results back to the doctor. 3) Became 2nd place for Patel Family Capstone Award in Engineering Capstone project. 
+
+---

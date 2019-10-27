@@ -1,0 +1,12 @@
+---
+title: Free Breathing Spirometry On-Chip (MATLAB and C)
+layout: default
+modal-id: 5
+date: 2015-07-17
+img: spirometrylab.jpg
+alt: image-alt
+project-date: August 2015
+employer: York University - Lassonde School of Engineering
+description: I was an undergradute research assistant working on this project, my contributions were 1) Performed 500 characterization and standardization experiments with controlled air. 2) Proved correctness of the Spirometer which contributed to the published paper (https://link.springer.com/article/10.1007/s00542-016-3200-0). 3) Was chosen to present the research to the Minister of Science. 4) Won Honourable Mention award in Lassonde Research Conference.
+
+---

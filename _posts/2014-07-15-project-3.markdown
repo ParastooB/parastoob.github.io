@@ -1,10 +1,11 @@
 ---
+Title: Get Your Bot RoboCop
 layout: default
-modal-id: 1
-date: 2017-08-18
-img: robot17poster.jpg
+modal-id: 3
+date: 2014-01-15
+img: getyourboton.jpg
 alt: image-alt
-project-date: August 2017
+project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: 

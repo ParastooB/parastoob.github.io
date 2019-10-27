@@ -1,0 +1,13 @@
+---
+title:  Deep Learning Approaches for QA with Freebase (Java)
+layout: default
+modal-id: 8
+date: 2018-08-16
+img: QANLP.jpg
+<!-- alt: image-alt -->
+project-date: August 2018
+employer: York University - Lassonde School of Engineering
+<!-- category: Capstone Project -->
+description: I was an undergradute research assistant working on this project, my contributions were 1) Created a dataset of paths for open-domain factoid QA tasks over Freebase. 2) Developed deeper graph searches resulting in a 30% increase in the paths.  3) Developed methods to eliminated 80% of the graph nodes to increase performance. 
+
+---

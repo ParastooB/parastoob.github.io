@@ -1,0 +1,12 @@
+---
+title: Distributed leader election algorithm (Java, Android) 
+layout: default
+modal-id: 7
+date: 2017-08-18
+img: robot17poster.jpg
+<!-- alt: image-alt -->
+project-date: August 2017
+employer: York University - Lassonde School of Engineering
+description: I recieved the competitive NSERC Undergraduate Student Research Award funding to work on this project. My contribution were 1) Implemented multithreading for simultaneous interaction in continuous time to develop a more realistic communication protocol. 2) Toned the algorithm leading to an under 10 second simulation runtime for 100 agents and less than a minute real-time performance for 20 android devices. 3) Learned effective communication of complex topics by presenting my research at CUCSC. 
+
+---

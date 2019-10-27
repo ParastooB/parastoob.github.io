@@ -1,0 +1,13 @@
+---
+title: Adaptive Learning for Educational Robots
+layout: default
+modal-id: 9
+date: 2019-10-15
+img: educationrobotics.jpg
+<!-- alt: image-alt -->
+project-date: October 2019
+school: University of Waterloo
+<!-- category: Capstone Project -->
+description: Presented early results of my in progress Masters Thesis in Humanoids 2019 as a form of Late Breaking Report.
+
+---

@@ -1,0 +1,12 @@
+---
+title: Lassonde Battle Ground Competition
+layout: default
+modal-id: 4
+date: 2014-07-16
+img: battleground.jpg
+alt: image-alt
+project-date: April 2014
+school: York University - Lassonde School of Engineering
+description: Student competition at Lassonde, with a goal of a robot navigating through a maze without cameras.
+
+---
