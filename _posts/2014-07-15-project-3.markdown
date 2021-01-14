@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description: Competed with other teams in Get Your BOT On which was specified in designing a robot for helping humans in daily jobs, especially elderly people. Achieved this by designing a robot that could use lights as noises as alarm of different situation for people in need. Built robots with Arduino boards and coded them in C language.
 
 ---

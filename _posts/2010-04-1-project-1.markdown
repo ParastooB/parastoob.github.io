@@ -1,5 +1,5 @@
 ---
-title: IranOpen Robotic Compition
+title: Line Follower Robots for IranOpen Robotic Compition
 layout: default
 modal-id: 1
 date: 2010-04-1
@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2010
 client: Start Bootstrap
 category: Web Development
-description: U!
+description: I have done three different line follower robots for series of competitions when I was in high school. The microcontroller is ATMega16 and I coded in C/C++. The PCB is also designed by my team and we soldered everthing and made the body of the robot from scratch using plexiglass​. 
 
 ---
