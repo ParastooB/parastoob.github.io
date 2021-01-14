@@ -1,5 +1,5 @@
 ---
-Title: Get Your Bot RoboCop
+title: Get Your Bot RoboCop
 layout: default
 modal-id: 3
 date: 2014-01-15
