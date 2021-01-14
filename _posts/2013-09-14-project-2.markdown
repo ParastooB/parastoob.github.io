@@ -6,8 +6,8 @@ date: 2013-07-14
 img: roboteng1.jpg
 alt: image-alt
 project-date: April 2013
-client: Start Bootstrap
-category: Web Development
+<!-- client: Start Bootstrap -->
+category: Robotics
 description: Designed a robot with the ability to find the path in an unknown maze, programmed in Python and main core of Raspberry Pi B+ for Lassonde Innovation Battleground.
 
 ---
